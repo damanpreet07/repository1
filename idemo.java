@@ -7,7 +7,8 @@ class idemo
 	int rollno;
 	double marks;
 	long pin;
-	
+	int a=10;
+	System.out.println("hello world: "+a);
 	System.out.println("Enter the name, rollno,marks and pin: ");
 	Scanner sc;
 	sc=new Scanner(System.in);
